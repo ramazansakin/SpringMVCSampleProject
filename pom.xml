@@ -15,7 +15,7 @@
 		<joda-time.version>2.3</joda-time.version>
 		<testng.version>6.9.4</testng.version>
 		<mockito.version>1.10.19</mockito.version>
-		<h2.version>1.4.187</h2.version>
+		<h2.version>2.0.206</h2.version>
 		<dbunit.version>2.2</dbunit.version>
 	</properties>
 
