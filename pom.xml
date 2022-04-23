@@ -9,7 +9,7 @@
 	<url>http://maven.apache.org</url>
 
 	<properties>
-		<springframework.version>5.3.18</springframework.version>
+		<springframework.version>5.3.19</springframework.version>
 		<hibernate.version>5.4.24.Final</hibernate.version>
 		<mysql.connector.version>8.0.16</mysql.connector.version>
 		<joda-time.version>2.3</joda-time.version>
